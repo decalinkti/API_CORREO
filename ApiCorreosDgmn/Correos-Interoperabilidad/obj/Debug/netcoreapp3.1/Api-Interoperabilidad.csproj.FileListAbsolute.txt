@@ -1,0 +1,17 @@
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\Api-Interoperabilidad.deps.json
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\Api-Interoperabilidad.dll
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\Api-Interoperabilidad.pdb
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.csprojAssemblyReference.cache
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.AssemblyInfoInputs.cache
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.AssemblyInfo.cs
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.csproj.CoreCompileInputs.cache
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.dll
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.pdb
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Correos-Interoperabilidad\bin\Debug\netcoreapp3.1\Api-Interoperabilidad.deps.json
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Correos-Interoperabilidad\bin\Debug\netcoreapp3.1\Api-Interoperabilidad.dll
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Correos-Interoperabilidad\bin\Debug\netcoreapp3.1\Api-Interoperabilidad.pdb
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Correos-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.AssemblyInfoInputs.cache
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Correos-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.AssemblyInfo.cs
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Correos-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.csproj.CoreCompileInputs.cache
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Correos-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.dll
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Correos-Interoperabilidad\obj\Debug\netcoreapp3.1\Api-Interoperabilidad.pdb

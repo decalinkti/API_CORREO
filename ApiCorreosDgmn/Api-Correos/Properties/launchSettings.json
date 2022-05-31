@@ -1,0 +1,70 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:5010",
+      "sslPort": 0
+    }
+  },
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "Desarrollo": {
+      "commandName": "IISExpress",
+      "environmentVariables": {
+        "SECRET_KEY": "d4541e4d6249c4e483ae23273bf93369",
+        "JWT_ClaveSecreta": "jLdGzo1mKxSfwVpBZjI5",
+        "JWT_Audience": "sistemasDGMN",
+        "Email_SmtpServer": "smtp.gmail.com",
+        "Email_SmtpServer_google": "smtp.gmail.com",
+        "Email_SmtpServer_office": "smtp.office365.com",
+        "JWT_Issuer": "apicorreosdgmn",
+        "Email_FromName": "Clave 2 DGMN",
+        "Email_FromName_google": "Clave 2 DGMN",
+        "Email_FromName_office": "Clave 2 DGMN",
+        "Email_Port": "587",
+        "Email_Port_google": "587",
+        "Email_Port_office": "587",
+        "Email_Password": "ytzlhhsxxpiipslz",
+        "Email_Password_google": "ytzlhhsxxpiipslz",
+        "Email_Password_office": "wfmmtscggxrbxmgw",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "Email_Username": "sisarmasweb@gmail.com",
+        "Email_Username_google": "sisarmasweb@gmail.com",
+        "Email_Username_office": "clavedos@dgmn.cl",
+        "Email_From": "sisarmasweb@gmail.com",
+        "Email_From_google": "sisarmasweb@gmail.com",
+        "Email_From_office": "clavedos@dgmn.cl"
+      }
+    },
+    "Produccion": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "SECRET_KEY": "d4541e4d6249c4e483ae23273bf93369",
+        "JWT_ClaveSecreta": "jLdGzo1mKxSfwVpBZjI5",
+        "JWT_Audience": "sistemasDGMN",
+        "Email_SmtpServer": "smtp.gmail.com",
+        "Email_SmtpServer_google": "smtp.gmail.com",
+        "Email_SmtpServer_office": "smtp.office365.com",
+        "JWT_Issuer": "apicorreosdgmn",
+        "Email_FromName": "Clave 2 DGMN",
+        "Email_FromName_google": "Clave 2 DGMN",
+        "Email_FromName_office": "Clave 2 DGMN",
+        "Email_Port": "587",
+        "Email_Port_google": "587",
+        "Email_Port_office": "587",
+        "Email_Password": "ytzlhhsxxpiipslz",
+        "Email_Password_google": "ytzlhhsxxpiipslz",
+        "Email_Password_office": "@D0263mN",
+        "ASPNETCORE_ENVIRONMENT": "Production",
+        "Email_Username": "sisarmasweb@gmail.com",
+        "Email_Username_google": "sisarmasweb@gmail.com",
+        "Email_Username_office": "clavedos@dgmn.cl",
+        "Email_From": "sisarmasweb@gmail.com",
+        "Email_From_google": "sisarmasweb@gmail.com",
+        "Email_From_office": "clavedos@dgmn.cl"
+      },
+      "applicationUrl": "https://localhost:44314;"
+    }
+  }
+}

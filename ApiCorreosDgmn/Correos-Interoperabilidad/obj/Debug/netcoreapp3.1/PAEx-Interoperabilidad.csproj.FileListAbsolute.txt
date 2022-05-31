@@ -1,0 +1,18 @@
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\PAEx-Interoperabilidad.deps.json
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\PAEx-Interoperabilidad.dll
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\PAEx-Interoperabilidad.pdb
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.csprojAssemblyReference.cache
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.AssemblyInfoInputs.cache
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.AssemblyInfo.cs
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.csproj.CoreCompileInputs.cache
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.dll
+C:\PaexGithub\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.pdb
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\PAEx-Interoperabilidad.deps.json
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\PAEx-Interoperabilidad.dll
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\bin\Debug\netcoreapp3.1\PAEx-Interoperabilidad.pdb
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.csprojAssemblyReference.cache
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.AssemblyInfoInputs.cache
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.AssemblyInfo.cs
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.csproj.CoreCompileInputs.cache
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.dll
+D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\PAEx-Negocio\PAEx-Interoperabilidad\obj\Debug\netcoreapp3.1\PAEx-Interoperabilidad.pdb

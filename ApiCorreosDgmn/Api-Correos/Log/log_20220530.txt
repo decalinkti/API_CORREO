@@ -1,0 +1,96 @@
+2022-05-30 14:43:39.025 -04:00 [INF] User profile is available. Using 'C:\Users\MSI PC\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-05-30 14:43:39.380 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 14:43:39.381 -04:00 [INF] Hosting environment: Development
+2022-05-30 14:43:39.381 -04:00 [INF] Content root path: D:\Users\MSI PC\Desktop\Api Correos\PAEx-Negocio\ApiCorreosDgmn\Api-Correos
+2022-05-30 14:43:39.454 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo?fromName=DecaLink&subject=Testeando&mailReceptor=gonzalo.ramos@decalink.cl&htmlBody=hola&tipoEnvio=1  0
+2022-05-30 14:43:39.477 -04:00 [WRN] Failed to determine the https port for redirect.
+2022-05-30 14:43:39.845 -04:00 [INF] Successfully validated the token.
+2022-05-30 14:43:39.854 -04:00 [INF] Authorization was successful.
+2022-05-30 14:43:39.858 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:43:39.914 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 14:43:39.979 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 14:43:40.015 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 85.8043ms
+2022-05-30 14:43:40.018 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:43:40.024 -04:00 [INF] Request finished in 574.0957ms 415 application/problem+json; charset=utf-8
+2022-05-30 14:47:00.706 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo multipart/form-data; boundary=--------------------------696705309596727444446261 640
+2022-05-30 14:47:00.741 -04:00 [INF] Successfully validated the token.
+2022-05-30 14:47:00.745 -04:00 [INF] Authorization was successful.
+2022-05-30 14:47:00.749 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:47:00.782 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 14:47:00.810 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 14:47:00.817 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 29.1008ms
+2022-05-30 14:47:00.825 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:47:00.829 -04:00 [INF] Request finished in 122.5794ms 415 application/problem+json; charset=utf-8
+2022-05-30 14:50:56.937 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo multipart/form-data; boundary=--------------------------108437136403792575166600 640
+2022-05-30 14:50:56.946 -04:00 [INF] Successfully validated the token.
+2022-05-30 14:50:56.949 -04:00 [INF] Authorization was successful.
+2022-05-30 14:50:56.952 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:50:56.955 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 14:50:56.961 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 14:50:56.971 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 7.8675ms
+2022-05-30 14:50:56.974 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:50:56.978 -04:00 [INF] Request finished in 41.2181ms 415 application/problem+json; charset=utf-8
+2022-05-30 14:51:07.431 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo multipart/form-data; boundary=--------------------------266698067257320959789523 640
+2022-05-30 14:51:07.436 -04:00 [INF] Successfully validated the token.
+2022-05-30 14:51:07.439 -04:00 [INF] Authorization was successful.
+2022-05-30 14:51:07.442 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:51:07.445 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 14:51:07.450 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 14:51:07.455 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 6.7747ms
+2022-05-30 14:51:07.458 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:51:07.461 -04:00 [INF] Request finished in 30.0142ms 415 application/problem+json; charset=utf-8
+2022-05-30 14:58:12.465 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo multipart/form-data; boundary=--------------------------147379945184817423036622 640
+2022-05-30 14:58:12.469 -04:00 [INF] Successfully validated the token.
+2022-05-30 14:58:12.474 -04:00 [INF] Authorization was successful.
+2022-05-30 14:58:12.478 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:58:12.481 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 14:58:12.488 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 14:58:12.501 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 10.407ms
+2022-05-30 14:58:12.504 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:58:12.508 -04:00 [INF] Request finished in 48.5726ms 415 application/problem+json; charset=utf-8
+2022-05-30 14:58:19.299 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo  0
+2022-05-30 14:58:19.304 -04:00 [INF] Successfully validated the token.
+2022-05-30 14:58:19.308 -04:00 [INF] Authorization was successful.
+2022-05-30 14:58:19.311 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:58:19.314 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 14:58:19.317 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 14:58:19.331 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 5.178ms
+2022-05-30 14:58:19.333 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:58:19.339 -04:00 [INF] Request finished in 37.1526ms 415 application/problem+json; charset=utf-8
+2022-05-30 14:58:47.202 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo  0
+2022-05-30 14:58:47.206 -04:00 [INF] Successfully validated the token.
+2022-05-30 14:58:47.210 -04:00 [INF] Authorization was successful.
+2022-05-30 14:58:47.212 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:58:47.215 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 14:58:47.219 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 14:58:47.222 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 4.616ms
+2022-05-30 14:58:47.233 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:58:47.236 -04:00 [INF] Request finished in 39.4228ms 415 application/problem+json; charset=utf-8
+2022-05-30 14:59:00.834 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo multipart/form-data; boundary=--------------------------495724093500367326307545 640
+2022-05-30 14:59:00.840 -04:00 [INF] Successfully validated the token.
+2022-05-30 14:59:00.844 -04:00 [INF] Authorization was successful.
+2022-05-30 14:59:00.847 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:59:00.853 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 14:59:00.858 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 14:59:00.870 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 6.757ms
+2022-05-30 14:59:00.873 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 14:59:00.877 -04:00 [INF] Request finished in 42.3934ms 415 application/problem+json; charset=utf-8
+2022-05-30 15:04:14.368 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo multipart/form-data; boundary=--------------------------424378953166834768178473 640
+2022-05-30 15:04:14.373 -04:00 [INF] Successfully validated the token.
+2022-05-30 15:04:14.377 -04:00 [INF] Authorization was successful.
+2022-05-30 15:04:14.380 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 15:04:14.383 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 15:04:14.387 -04:00 [INF] Executing ObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ProblemDetails'.
+2022-05-30 15:04:14.399 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 5.3942ms
+2022-05-30 15:04:14.402 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 15:04:14.405 -04:00 [INF] Request finished in 41.3372ms 415 application/problem+json; charset=utf-8
+2022-05-30 15:07:24.102 -04:00 [INF] Request starting HTTP/1.1 POST http://localhost:5010/EnvioCorreo/EnvioCorreoDGMNTipo application/json 147
+2022-05-30 15:07:24.107 -04:00 [INF] Successfully validated the token.
+2022-05-30 15:07:24.111 -04:00 [INF] Authorization was successful.
+2022-05-30 15:07:24.113 -04:00 [INF] Executing endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 15:07:24.116 -04:00 [INF] Route matched with {action = "EnvioCorreoDGMNTipo", controller = "EnvioCorreo"}. Executing controller action with signature System.String EnvioCorreoDGMNTipo(Api_Correos.Models.ObjetoEnvioCorreo) on controller Api_Correos.Controllers.EnvioCorreoController (Api-Correos-DGMN).
+2022-05-30 15:07:31.592 -04:00 [INF] Se ha ingresado al método Send en EmailSenderbyType
+2022-05-30 15:07:34.907 -04:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-05-30 15:07:34.925 -04:00 [INF] Executed action Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN) in 10797.8513ms
+2022-05-30 15:07:34.928 -04:00 [INF] Executed endpoint 'Api_Correos.Controllers.EnvioCorreoController.EnvioCorreoDGMNTipo (Api-Correos-DGMN)'
+2022-05-30 15:07:34.932 -04:00 [INF] Request finished in 10835.2304ms 200 text/plain; charset=utf-8

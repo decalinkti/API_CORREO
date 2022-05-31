@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Api-Interoperabilidad": {
+      "commandName": "Project",
+      "environmentVariables": {
+      }
+    }
+  }
+}
