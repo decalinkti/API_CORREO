@@ -55,7 +55,7 @@
         "Email_Port_office": "587",
         "Email_Password": "ytzlhhsxxpiipslz",
         "Email_Password_google": "ytzlhhsxxpiipslz",
-        "Email_Password_office": "@D0263mN",
+        "Email_Password_office": "wfmmtscggxrbxmgw",
         "ASPNETCORE_ENVIRONMENT": "Production",
         "Email_Username": "sisarmasweb@gmail.com",
         "Email_Username_google": "sisarmasweb@gmail.com",
@@ -63,8 +63,7 @@
         "Email_From": "sisarmasweb@gmail.com",
         "Email_From_google": "sisarmasweb@gmail.com",
         "Email_From_office": "clavedos@dgmn.cl"
-      },
-      "applicationUrl": "https://localhost:44314;"
+      }
     }
   }
 }
