@@ -138,6 +138,7 @@ namespace Api_Correos.Controllers
         public string EnvioCorreoDGMNTipo([FromBody] ObjetoEnvioCorreo objetoEnvioCorreo)
         {
             //Envía correo
+            _logger.LogInformation($"Se enviará un correo con las siguientes características\n:- Tipo: {(objetoEnvioCorreo.tipoEnvio==1?"(1) Gmail":"(2)Office")} \n - Destinatario: {objetoEnvioCorreo.mailReceptor}\n - Emisor: {objetoEnvioCorreo.fromName}\n - Título: {objetoEnvioCorreo.subject}");
             try
             {
                 var message = new Message(new string[] { objetoEnvioCorreo.mailReceptor }, objetoEnvioCorreo.subject, objetoEnvioCorreo.htmlBody);
@@ -146,7 +147,8 @@ namespace Api_Correos.Controllers
             }
             catch (Exception e)
             {
-                return "Ha ocurrido un error. Detalle: " + e;
+                _logger.LogError("Ha ocurrido un error. Detalle:\n " + e);
+                return "NOOK";
             }
         }
     }
