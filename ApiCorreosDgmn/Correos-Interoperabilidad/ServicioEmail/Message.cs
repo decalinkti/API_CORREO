@@ -13,6 +13,12 @@ namespace Api_Interoperabilidad.ServicioEmail
         public List<MailboxAddress> To { get; set; }
         public string Subject { get; set; }
         public string Content { get; set; }
+        /// <summary>
+        /// Constructor de 
+        /// </summary>
+        /// <param name="to">A quien va enviado el correo</param>
+        /// <param name="subject">Asunto del correo</param>
+        /// <param name="content">Contenido del correo</param>
         public Message(IEnumerable<string> to, string subject, string content)
         {
             To = new List<MailboxAddress>();

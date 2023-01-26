@@ -133,6 +133,11 @@ namespace Api_Correos.Controllers
             return "ok";
         }
 
+        /// <summary>
+        /// Método para enviar un correo con el formato de DGMNs
+        /// </summary>
+        /// <param name="objetoEnvioCorreo">Objeto con datos del correo a enviar</param>
+        /// <returns>ACK</returns>
         [HttpPost("EnvioCorreoDGMNTipo")]
         [Authorize]
         public string EnvioCorreoDGMNTipo([FromBody] ObjetoEnvioCorreo objetoEnvioCorreo)
