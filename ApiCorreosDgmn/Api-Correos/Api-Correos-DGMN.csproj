@@ -24,6 +24,8 @@
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="https://ffizer.github.io/ffizer/ffizer.schema.json" properties_4launchsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
-
+<PropertyGroup>
+  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+</PropertyGroup>
 
 </Project>

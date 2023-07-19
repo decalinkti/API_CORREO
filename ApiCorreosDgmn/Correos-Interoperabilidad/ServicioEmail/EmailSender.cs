@@ -19,6 +19,9 @@ namespace Api_Interoperabilidad.ServicioEmail
         /// Constructor de este controlador.
         /// </summary>
         /// <param name="emailConfig">Inyecta el objeto de configuración para envío de email.</param>
+        /// <param name="emailConfigGmail">Inyecta los datos de configuración para GMAIL</param>
+        /// <param name="emailConfigOffice">Inyecta los datos de configuración de Office 365</param>
+        /// <param name="logger">Inyecta el módulo para incorporar el log de eventos del sistema</param>
         public EmailSender(EmailConfiguration emailConfig, EmailConfigurationGmail emailConfigGmail, EmailConfigurationOffice emailConfigOffice, ILogger<EmailSender> logger)
         {
             _emailConfig = emailConfig;
@@ -108,6 +111,7 @@ namespace Api_Interoperabilidad.ServicioEmail
         /// Metodo privado del paquete MailKit para enviar el email.
         /// </summary>
         /// <param name="mailMessage"> Objeto con toda la estructura del email y sus metadatos.</param>
+        /// <param name="tipoEnvio">Código del tipo de envío</param>
         private void Sendbytype(MimeMessage mailMessage, int tipoEnvio)
         {
             _logger.LogInformation("Se ha ingresado al método Send en EmailSenderbyType");
@@ -162,6 +166,7 @@ namespace Api_Interoperabilidad.ServicioEmail
         /// Metodo del paquete MailKit que realiza la acción de crear el email y de enviarlo.
         /// </summary>
         /// <param name="message">Objeto con el cuerpo del mensaje.</param>
+        /// <param name="fromName">Nombre del remitente</param>
         public void SendEmailGeneric(Message message, string fromName)
         {
             var emailMessage = CreateEmailMessageGeneric(message, fromName);
@@ -172,6 +177,8 @@ namespace Api_Interoperabilidad.ServicioEmail
         /// Metodo del paquete MailKit que realiza la acción de crear el email y de enviarlo.
         /// </summary>
         /// <param name="message">Objeto con el cuerpo del mensaje.</param>
+        /// <param name="fromName">Nombre del remitente</param>
+        /// <param name="tipoEnvio">Código de tipo de envío</param>
         public void SendEmailGenericType(Message message, string fromName, int tipoEnvio)
         {
             var emailMessage = CreateEmailMessageGenericType(message, fromName,tipoEnvio);
