@@ -152,7 +152,8 @@ namespace Api_Correos.Controllers
             }
             catch (Exception e)
             {
-                _logger.LogError("Ha ocurrido un error. Detalle:\n " + e);
+                _logger.LogError("Ha ocurrido un error. Detalle:\n " + e.Message);
+                _logger.LogError(e.StackTrace);
                 return "NOOK";
             }
         }
