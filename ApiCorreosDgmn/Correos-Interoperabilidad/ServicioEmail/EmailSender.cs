@@ -132,14 +132,14 @@ namespace Api_Interoperabilidad.ServicioEmail
                         client.Connect(_emailConfigOffice.SmtpServer, _emailConfigOffice.Port, false);
                         //client.AuthenticationMechanisms.Remove("XOAUTH2");
                         client.Authenticate(_emailConfigOffice.UserName, _emailConfigOffice.Password);
-                        _logger.LogInformation($"Se ha enviado correctamente el correo a {mailMessage.To} usando el servidor " + $"{ _emailConfigOffice}:{_emailConfigOffice.Port} (Office)");
+                        _logger.LogInformation($"Se ha enviado correctamente el correo a {mailMessage.To} usando el servidor " + $"{ _emailConfigOffice.SmtpServer}:{_emailConfigOffice.Port} (Office)");
                     }
 
                     client.Send(mailMessage);
                 }
                 catch (Exception e)
                 {
-                    _logger.LogError($"No se ha podido enviar el correo a {mailMessage.To} usando el servidor "+ (tipoEnvio == 1 ? $"{ _emailConfigGmail.SmtpServer}:{_emailConfigGmail.Port} (Gmail)" : $"{ _emailConfigOffice}:{_emailConfigOffice.Port} (Office)"));
+                    _logger.LogError($"No se ha podido enviar el correo a {mailMessage.To} usando el servidor "+ (tipoEnvio == 1 ? $"{ _emailConfigGmail.SmtpServer}:{_emailConfigGmail.Port} (Gmail)" : $"{ _emailConfigOffice.SmtpServer}:{_emailConfigOffice.Port} (Office)"));
                     _logger.LogError(e.ToString());
                     Console.WriteLine(e);
                     throw;

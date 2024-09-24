@@ -27,14 +27,14 @@
         "Email_Port_office": "587",
         "Email_Password": "ytzlhhsxxpiipslz",
         "Email_Password_google": "ytzlhhsxxpiipslz",
-        "Email_Password_office": "wphzgwxrlmdjyfzn",
+        "Email_Password_office": "@D0263mN*chile",
         "ASPNETCORE_ENVIRONMENT": "Development",
         "Email_Username": "sisarmasweb@gmail.com",
         "Email_Username_google": "sisarmasweb@gmail.com",
-        "Email_Username_office": "clave2@dgmn.cl",
+        "Email_Username_office": "portalarmaschile@dgmn.cl",
         "Email_From": "sisarmasweb@gmail.com",
         "Email_From_google": "sisarmasweb@gmail.com",
-        "Email_From_office": "clave2@dgmn.cl"
+        "Email_From_office": "portalarmaschile@dgmn.cl"
       }
     },
     "Produccion": {
@@ -55,14 +55,14 @@
         "Email_Port_office": "587",
         "Email_Password": "ytzlhhsxxpiipslz",
         "Email_Password_google": "ytzlhhsxxpiipslz",
-        "Email_Password_office": "wphzgwxrlmdjyfzn",
+        "Email_Password_office": "@D0263mN*chile",
         "ASPNETCORE_ENVIRONMENT": "Production",
         "Email_Username": "sisarmasweb@gmail.com",
         "Email_Username_google": "sisarmasweb@gmail.com",
-        "Email_Username_office": "clave2@dgmn.cl",
+        "Email_Username_office": "portalarmaschile@dgmn.cl",
         "Email_From": "sisarmasweb@gmail.com",
         "Email_From_google": "sisarmasweb@gmail.com",
-        "Email_From_office": "clave2@dgmn.cl"
+        "Email_From_office": "portalarmaschile@dgmn.cl"
       }
     }
   }
